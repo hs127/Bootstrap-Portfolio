@@ -117,13 +117,14 @@ padding:8px;
   padding:20px;
 }
 
-.footer {
+.foter {
     text-align: center; 
     border-top:2px; 
     border-style:solid; 
     border-top-color: #4aaaa5;
     background-color: #666666; 
     padding: 15px; 
+    margin-top:20px; 
 }
 
 
@@ -193,11 +194,8 @@ padding:8px;
 
 
  .gridContainer {
-   display:grid; 
-   grid-template-columns: auto auto;
    justify-content: center; 
-   padding-bottom:20px; 
-   height:auto;
+   padding-left:20px;  
    
   }
 
@@ -269,4 +267,9 @@ div.img3 {
   border:2px;
   height:600px; 
   
+}
+
+.wid {
+max-width:400px; 
+
 }
