@@ -183,6 +183,9 @@ padding:8px;
   /* MArgin for form  */
   .doc {
     margin: 20px;
+    width:25%;
+    padding-right:40px;
+    
   }
 
 
